@@ -1,3 +1,14 @@
+> [!NOTE]
+> 
+> 原项目已停止维护，本人仅提供部分支持
+> 
+> 接口地址：[https://api.fzf404.art/music](https://api.fzf404.art/music)
+> 
+> 文档地址：[https://fzf404.github.io/music](https://fzf404.github.io/music)
+>
+> 原项目地址：[https://github.com/Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+> 
+
 # 网易云音乐 API
 
 网易云音乐 Node.js API service
